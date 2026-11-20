@@ -1,0 +1,5 @@
+#include "ui_internal.h"
+const uint8_t browse_owners[] = {0,1,0,0,1,0,1,0,1};
+const uint8_t browse_zones[] = {Z_FIELD,Z_FIELD,Z_HAND,Z_BREED,Z_BREED,Z_TRASH,Z_TRASH,Z_TAMER,Z_TAMER};
+const char *const browse_names[] = {"YOUR BATTLE AREA","FOE BATTLE AREA","YOUR HAND","YOUR BREEDING","FOE BREEDING","YOUR TRASH","FOE TRASH","YOUR TAMERS","FOE TAMERS"};
+const char *const log_names[] = {"DUEL BEGINS","HATCHED","MOVED OUT","PLAYED","DIGIVOLVED","ATTACKED","BLOCKED","SECURITY CHECK","DELETED","RETURNED TO HAND","TRASHED SOURCE","EFFECT","PASSED","TURN BEGINS","WON THE DUEL","DREW A CARD"};

@@ -1,0 +1,10 @@
+/.build/
+/build/
+/builds/
+*.gb
+*.gbc
+*.sav
+*.srm
+*.rtc
+*.state
+*.state[0-9]*

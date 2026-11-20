@@ -1,0 +1,610 @@
+[
+  {
+    "number": "ST1-01",
+    "name": "Koromon",
+    "kind": 0,
+    "color": 0,
+    "level": 2,
+    "cost": 0,
+    "evo": 0,
+    "dp": 0,
+    "copies": 4,
+    "text": "INHERITED EFFECT\n[Your Turn] While this Digimon has 4 or more digivolution cards, it gets +1000 DP.",
+    "effects": [
+      {
+        "section": "Inherited Effect",
+        "text": "[Your Turn] While this Digimon has 4 or more digivolution cards, it gets +1000 DP."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-02",
+    "name": "Biyomon",
+    "kind": 1,
+    "color": 0,
+    "level": 3,
+    "cost": 2,
+    "evo": 0,
+    "dp": 3,
+    "copies": 4,
+    "text": "No effect.",
+    "effects": [],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-03",
+    "name": "Agumon",
+    "kind": 1,
+    "color": 0,
+    "level": 3,
+    "cost": 3,
+    "evo": 0,
+    "dp": 2,
+    "copies": 4,
+    "text": "INHERITED EFFECT\n[Your Turn] This Digimon gets +1000 DP.",
+    "effects": [
+      {
+        "section": "Inherited Effect",
+        "text": "[Your Turn] This Digimon gets +1000 DP."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-04",
+    "name": "Dracomon",
+    "kind": 1,
+    "color": 0,
+    "level": 3,
+    "cost": 3,
+    "evo": 0,
+    "dp": 4,
+    "copies": 4,
+    "text": "No effect.",
+    "effects": [],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-05",
+    "name": "Birdramon",
+    "kind": 1,
+    "color": 0,
+    "level": 4,
+    "cost": 4,
+    "evo": 2,
+    "dp": 5,
+    "copies": 4,
+    "text": "No effect.",
+    "effects": [],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-06",
+    "name": "Coredramon",
+    "kind": 1,
+    "color": 0,
+    "level": 4,
+    "cost": 5,
+    "evo": 2,
+    "dp": 6,
+    "copies": 4,
+    "text": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.) [When Attacking] Lose 2 memory.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.) [When Attacking] Lose 2 memory."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-07",
+    "name": "Greymon",
+    "kind": 1,
+    "color": 0,
+    "level": 4,
+    "cost": 5,
+    "evo": 2,
+    "dp": 4,
+    "copies": 2,
+    "text": "INHERITED EFFECT\n＜Security Attack +1＞ (This Digimon checks 1 additional security card.)",
+    "effects": [
+      {
+        "section": "Inherited Effect",
+        "text": "＜Security Attack +1＞ (This Digimon checks 1 additional security card.)"
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-08",
+    "name": "Garudamon",
+    "kind": 1,
+    "color": 0,
+    "level": 5,
+    "cost": 6,
+    "evo": 3,
+    "dp": 7,
+    "copies": 4,
+    "text": "[When Digivolving] 1 of your Digimon gets +3000 DP for the turn.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[When Digivolving] 1 of your Digimon gets +3000 DP for the turn."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-09",
+    "name": "MetalGreymon",
+    "kind": 1,
+    "color": 0,
+    "level": 5,
+    "cost": 7,
+    "evo": 3,
+    "dp": 7,
+    "copies": 4,
+    "text": "INHERITED EFFECT\n[Your Turn] When this Digimon is blocked, gain 3 memory.",
+    "effects": [
+      {
+        "section": "Inherited Effect",
+        "text": "[Your Turn] When this Digimon is blocked, gain 3 memory."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-10",
+    "name": "Phoenixmon",
+    "kind": 1,
+    "color": 0,
+    "level": 6,
+    "cost": 10,
+    "evo": 2,
+    "dp": 12,
+    "copies": 2,
+    "text": "No effect.",
+    "effects": [],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-11",
+    "name": "WarGreymon",
+    "kind": 1,
+    "color": 0,
+    "level": 6,
+    "cost": 12,
+    "evo": 4,
+    "dp": 12,
+    "copies": 2,
+    "text": "[Your Turn] For every 2 digivolution cards this Digimon has, it gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[Your Turn] For every 2 digivolution cards this Digimon has, it gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-12",
+    "name": "Tai Kamiya",
+    "kind": 2,
+    "color": 0,
+    "level": 0,
+    "cost": 2,
+    "evo": 0,
+    "dp": 0,
+    "copies": 4,
+    "text": "[Your Turn] All of your Digimon get +1000 DP.\n\n[Security] Play this card without paying its memory cost.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[Your Turn] All of your Digimon get +1000 DP."
+      },
+      {
+        "section": "Security Effect",
+        "text": "[Security] Play this card without paying its memory cost."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-13",
+    "name": "Shadow Wing",
+    "kind": 3,
+    "color": 0,
+    "level": 0,
+    "cost": 1,
+    "evo": 0,
+    "dp": 0,
+    "copies": 4,
+    "text": "[Main] 1 of your Digimon gets +3000 DP for the turn.\n\n[Security] All of your Digimon gain ＜Security Attack +1＞  (This Digimon checks 1 additional security card) until the end of your next turn.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[Main] 1 of your Digimon gets +3000 DP for the turn."
+      },
+      {
+        "section": "Security Effect",
+        "text": "[Security] All of your Digimon gain ＜Security Attack +1＞  (This Digimon checks 1 additional security card) until the end of your next turn."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-14",
+    "name": "Starlight Explosion",
+    "kind": 3,
+    "color": 0,
+    "level": 0,
+    "cost": 2,
+    "evo": 0,
+    "dp": 0,
+    "copies": 2,
+    "text": "[Main] All of your Security Digimon get +7000 DP until the end of your opponent's next turn.\n\n[Security] All of your Security Digimon get +7000 DP for the turn.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[Main] All of your Security Digimon get +7000 DP until the end of your opponent's next turn."
+      },
+      {
+        "section": "Security Effect",
+        "text": "[Security] All of your Security Digimon get +7000 DP for the turn."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-15",
+    "name": "Giga Destroyer",
+    "kind": 3,
+    "color": 0,
+    "level": 0,
+    "cost": 6,
+    "evo": 0,
+    "dp": 0,
+    "copies": 2,
+    "text": "[Main] Delete up to 2 of your opponent's Digimon with 4000 DP or less.\n\n[Security] Activate this card's [Main] effect.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[Main] Delete up to 2 of your opponent's Digimon with 4000 DP or less."
+      },
+      {
+        "section": "Security Effect",
+        "text": "[Security] Activate this card's [Main] effect."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST1-16",
+    "name": "Gaia Force",
+    "kind": 3,
+    "color": 0,
+    "level": 0,
+    "cost": 8,
+    "evo": 0,
+    "dp": 0,
+    "copies": 4,
+    "text": "[Main] Delete 1 of your opponent's Digimon.\n\n[Security] Activate this card's [Main] effect.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[Main] Delete 1 of your opponent's Digimon."
+      },
+      {
+        "section": "Security Effect",
+        "text": "[Security] Activate this card's [Main] effect."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522101&search=true"
+  },
+  {
+    "number": "ST2-01",
+    "name": "Tsunomon",
+    "kind": 0,
+    "color": 1,
+    "level": 2,
+    "cost": 0,
+    "evo": 0,
+    "dp": 0,
+    "copies": 4,
+    "text": "INHERITED EFFECT\n[Your Turn] This Digimon gets +1000 DP when battling an opponent's Digimon that has no digivolution cards.",
+    "effects": [
+      {
+        "section": "Inherited Effect",
+        "text": "[Your Turn] This Digimon gets +1000 DP when battling an opponent's Digimon that has no digivolution cards."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-02",
+    "name": "Gomamon",
+    "kind": 1,
+    "color": 1,
+    "level": 3,
+    "cost": 2,
+    "evo": 0,
+    "dp": 3,
+    "copies": 4,
+    "text": "No effect.",
+    "effects": [],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-03",
+    "name": "Gabumon",
+    "kind": 1,
+    "color": 1,
+    "level": 3,
+    "cost": 3,
+    "evo": 0,
+    "dp": 2,
+    "copies": 4,
+    "text": "INHERITED EFFECT\n[When Attacking] Trash the digivolution card at the bottom of 1 of your opponent's Digimon with a level of 5 or less.",
+    "effects": [
+      {
+        "section": "Inherited Effect",
+        "text": "[When Attacking] Trash the digivolution card at the bottom of 1 of your opponent's Digimon with a level of 5 or less."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-04",
+    "name": "Bearmon",
+    "kind": 1,
+    "color": 1,
+    "level": 3,
+    "cost": 3,
+    "evo": 0,
+    "dp": 4,
+    "copies": 4,
+    "text": "No effect.",
+    "effects": [],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-05",
+    "name": "Ikkakumon",
+    "kind": 1,
+    "color": 1,
+    "level": 4,
+    "cost": 4,
+    "evo": 2,
+    "dp": 5,
+    "copies": 4,
+    "text": "No effect.",
+    "effects": [],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-06",
+    "name": "Garurumon",
+    "kind": 1,
+    "color": 1,
+    "level": 4,
+    "cost": 5,
+    "evo": 2,
+    "dp": 4,
+    "copies": 2,
+    "text": "INHERITED EFFECT\n[When Attacking] Trash the digivolution card at the bottom of 1 of your opponent's Digimon.",
+    "effects": [
+      {
+        "section": "Inherited Effect",
+        "text": "[When Attacking] Trash the digivolution card at the bottom of 1 of your opponent's Digimon."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-07",
+    "name": "Grizzlymon",
+    "kind": 1,
+    "color": 1,
+    "level": 4,
+    "cost": 5,
+    "evo": 2,
+    "dp": 6,
+    "copies": 4,
+    "text": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.) [When Attacking] Lose 2 memory.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "＜Blocker＞ (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.) [When Attacking] Lose 2 memory."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-08",
+    "name": "WereGarurumon",
+    "kind": 1,
+    "color": 1,
+    "level": 5,
+    "cost": 7,
+    "evo": 3,
+    "dp": 7,
+    "copies": 4,
+    "text": "INHERITED EFFECT\n[Your Turn] While your opponent has a Digimon with no digivolution cards, this Digimon gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)",
+    "effects": [
+      {
+        "section": "Inherited Effect",
+        "text": "[Your Turn] While your opponent has a Digimon with no digivolution cards, this Digimon gains ＜Security Attack +1＞. (This Digimon checks 1 additional security card.)"
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-09",
+    "name": "Zudomon",
+    "kind": 1,
+    "color": 1,
+    "level": 5,
+    "cost": 6,
+    "evo": 3,
+    "dp": 7,
+    "copies": 4,
+    "text": "[When Digivolving] Trash 2 digivolution cards at the bottom of 1 of your opponent's Digimon.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[When Digivolving] Trash 2 digivolution cards at the bottom of 1 of your opponent's Digimon."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-10",
+    "name": "Plesiomon",
+    "kind": 1,
+    "color": 1,
+    "level": 6,
+    "cost": 10,
+    "evo": 2,
+    "dp": 12,
+    "copies": 2,
+    "text": "No effect.",
+    "effects": [],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-11",
+    "name": "MetalGarurumon",
+    "kind": 1,
+    "color": 1,
+    "level": 6,
+    "cost": 12,
+    "evo": 4,
+    "dp": 11,
+    "copies": 2,
+    "text": "[When Attacking][Once Per Turn] Unsuspend this Digimon.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[When Attacking][Once Per Turn] Unsuspend this Digimon."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-12",
+    "name": "Matt Ishida",
+    "kind": 2,
+    "color": 1,
+    "level": 0,
+    "cost": 2,
+    "evo": 0,
+    "dp": 0,
+    "copies": 4,
+    "text": "[Start of Your Turn] If your opponent has a Digimon with no digivolution cards, gain 1 memory.\n\n[Security] Play this card without paying its memory cost.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[Start of Your Turn] If your opponent has a Digimon with no digivolution cards, gain 1 memory."
+      },
+      {
+        "section": "Security Effect",
+        "text": "[Security] Play this card without paying its memory cost."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-13",
+    "name": "Hammer Spark",
+    "kind": 3,
+    "color": 1,
+    "level": 0,
+    "cost": 0,
+    "evo": 0,
+    "dp": 0,
+    "copies": 4,
+    "text": "[Main] Gain 1 memory.\n\n[Security] Gain 2 memory.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[Main] Gain 1 memory."
+      },
+      {
+        "section": "Security Effect",
+        "text": "[Security] Gain 2 memory."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-14",
+    "name": "Sorrow Blue",
+    "kind": 3,
+    "color": 1,
+    "level": 0,
+    "cost": 2,
+    "evo": 0,
+    "dp": 0,
+    "copies": 2,
+    "text": "[Main] Choose 1 of your opponent's Digimon with no digivolution cards. That Digimon can't attack or block until the end of your opponent's next turn.\n\n[Security] Choose 1 of your opponent's Digimon with no digivolution cards. That Digimon can't attack or block until the end of your next turn.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[Main] Choose 1 of your opponent's Digimon with no digivolution cards. That Digimon can't attack or block until the end of your opponent's next turn."
+      },
+      {
+        "section": "Security Effect",
+        "text": "[Security] Choose 1 of your opponent's Digimon with no digivolution cards. That Digimon can't attack or block until the end of your next turn."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-15",
+    "name": "Kaiser Nail",
+    "kind": 3,
+    "color": 1,
+    "level": 0,
+    "cost": 4,
+    "evo": 0,
+    "dp": 0,
+    "copies": 2,
+    "text": "[Main] Choose a Digimon digivolution card placed under 1 of your Digimon and play it as another Digimon without paying its memory cost.\n\n[Security] Activate this card's [Main] effect.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[Main] Choose a Digimon digivolution card placed under 1 of your Digimon and play it as another Digimon without paying its memory cost."
+      },
+      {
+        "section": "Security Effect",
+        "text": "[Security] Activate this card's [Main] effect."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  },
+  {
+    "number": "ST2-16",
+    "name": "Cocytus Breath",
+    "kind": 3,
+    "color": 1,
+    "level": 0,
+    "cost": 7,
+    "evo": 0,
+    "dp": 0,
+    "copies": 4,
+    "text": "[Main] Return 1 of your opponent's Digimon to its owner's hand. (Trash all of the digivolution cards of that Digimon.)\n\n[Security] Activate this card's [Main] effect.",
+    "effects": [
+      {
+        "section": "Effect",
+        "text": "[Main] Return 1 of your opponent's Digimon to its owner's hand. (Trash all of the digivolution cards of that Digimon.)"
+      },
+      {
+        "section": "Security Effect",
+        "text": "[Security] Activate this card's [Main] effect."
+      }
+    ],
+    "text_source": "https://world.digimoncard.com/cards/?category=522102&search=true"
+  }
+]
